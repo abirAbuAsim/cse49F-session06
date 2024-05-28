@@ -1,0 +1,1 @@
+alert("Session 06 Started");
